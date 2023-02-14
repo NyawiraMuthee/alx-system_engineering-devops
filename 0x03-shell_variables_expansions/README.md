@@ -1,0 +1,1 @@
+Shellinit variables
